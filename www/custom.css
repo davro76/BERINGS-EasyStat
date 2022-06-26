@@ -1,0 +1,29 @@
+
+/*format header title*/ 
+.main-header .logo {
+  font-family: "Lucida Handwriting", Cursive;
+  font-weight: bold;
+  font-size: 24px;
+  
+}
+
+/* Customize header title background*/
+.skin-red .main-header .logo {
+    background-color:darkgreen;
+}
+
+/*format Sidebar Elements*/
+.skin-red .main-sidebar .sidebar .sidebar-menu a {
+    font-family: "Lucida Handwriting", Cursive;
+  font-weight: bold;
+
+  font-size: 16px;
+  color: aqua;
+  align-items: center;
+} 
+
+.skin-red .main-header .logo {
+    color:yellow;
+    
+}
+
